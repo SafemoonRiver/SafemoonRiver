@@ -8,11 +8,9 @@
 SafemoonRiver/SafemoonRiver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-/**
- *Submitted for verification at BscScan.com on 2021-08-07
-*/
 
-//SPDX-License-Identifier: MIT
+
+//SPDX-License-Identifier: 
 
 pragma solidity ^0.7.4;
 
